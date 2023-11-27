@@ -1,0 +1,5 @@
+LLM Options:
+  - "LLAMA2-7B-CHAT-HF"
+  - "microsoft/Orca-2-13b"
+  - "mosaicml/mpt-7b"
+  
