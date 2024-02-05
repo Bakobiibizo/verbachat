@@ -31,7 +31,7 @@ setup(
         "openai==0.27.9",
         "wasabi==1.1.2",
         "spacy==3.6.1",
-        "fastapi==0.102.0",
+        "fastapi==0.109.1",
         "uvicorn[standard]",
         "click== 8.1.7",
         "asyncio",
